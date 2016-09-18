@@ -1,0 +1,16 @@
+,,A_parent,A_parent,A_parent,A_parent,B_parent,B_parent,B_parent,C_parent,C_parent,D_parent,D_parent,D_parent,E_parent,E_parent
+,,a_child,b_child,c_child,d_child,e_child,f_child,g_child,h_child,i_child,j_child,k_child,i_child,j_child,k_child
+A_parent,a_child,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+A_parent,b_child,0,83.4,8.4,8.2,0,0,0,0,0,0,0,0,0,0
+A_parent,c_child,6.5,0.5,83,10,0,0,0,0,0,0,0,0,0,0
+A_parent,d_child,0,0,5.3,94.7,0,0,0,0,0,0,0,0,0,0
+B_parent,e_child,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+B_parent,f_child,0,0,0,0,15.8,83,1.2,0,0,0,0,0,0,0
+B_parent,g_child,0,0,0,0,0,0,100,0,0,0,0,0,0,0
+C_parent,h_child,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+C_parent,i_child,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+D_parent,j_child,0,0,0,0,0,0,0,0,0,99.6,0.4,0,0,0
+D_parent,k_child,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+D_parent,i_child,0,0,0,0,0,0,0,0,0,0,0,100,0,0
+E_parent,j_child,0,0,0,0,0,0,0,0,0,0,0,0,100,0
+E_parent,k_child,0,0,0,0,0,0,0,0,0,0,0,0,0,100
